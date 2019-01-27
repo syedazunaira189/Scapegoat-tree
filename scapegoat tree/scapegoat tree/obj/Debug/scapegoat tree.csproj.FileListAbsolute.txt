@@ -1,0 +1,6 @@
+c:\users\mubashir ahmed\documents\visual studio 2013\Projects\scapegoat tree\scapegoat tree\bin\Debug\scapegoat tree.exe.config
+c:\users\mubashir ahmed\documents\visual studio 2013\Projects\scapegoat tree\scapegoat tree\bin\Debug\scapegoat tree.exe
+c:\users\mubashir ahmed\documents\visual studio 2013\Projects\scapegoat tree\scapegoat tree\bin\Debug\scapegoat tree.pdb
+c:\users\mubashir ahmed\documents\visual studio 2013\Projects\scapegoat tree\scapegoat tree\obj\Debug\scapegoat tree.csprojResolveAssemblyReference.cache
+c:\users\mubashir ahmed\documents\visual studio 2013\Projects\scapegoat tree\scapegoat tree\obj\Debug\scapegoat tree.exe
+c:\users\mubashir ahmed\documents\visual studio 2013\Projects\scapegoat tree\scapegoat tree\obj\Debug\scapegoat tree.pdb
