@@ -65,3 +65,7 @@ Scapegoat tree can achieve its complexity without storing extra information at e
 
 Disadvantage:
 Lazy data structure only does work when search paths get too long.
+
+Group members:
+Syeda Zunaira     
+Aliza Wagan
